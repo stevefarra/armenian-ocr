@@ -1,0 +1,6 @@
+Cleaning up
+- Remove single quotes, double quotes, slashes in capitalized words
+- Flag percents in capitalized words
+- Remove bracketed items - some are missing a bracket or have an extra, some entries dont have a bracketed item
+- Entries always end in ':' or '։'
+- Lines ending with hyphen always follow next line with '| ' or empty line
